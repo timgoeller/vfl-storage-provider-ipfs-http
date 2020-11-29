@@ -1,1 +1,1 @@
-vfl-storage-provider-ipfs
+ipfs provider for versioned-file-log
