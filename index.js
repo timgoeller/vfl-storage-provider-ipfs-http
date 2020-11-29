@@ -1,1 +1,1 @@
-module.exports = require('./src/ipfs-provider')
+module.exports = require('./src/ipfs-storage-provider-http')

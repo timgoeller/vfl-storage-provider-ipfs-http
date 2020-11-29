@@ -1,7 +1,7 @@
 {
-  "name": "vfl-storage-provider-ipfs",
+  "name": "vfl-storage-provider-ipfs-http",
   "version": "0.0.1",
-  "description": "ipfs provider for versioned-file-log",
+  "description": "ipfs provider for versioned-file-log using the http interface",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -16,5 +16,8 @@
   "devDependencies": {
     "jest": "^26.6.3",
     "standard": "^16.0.3"
+  },
+  "dependencies": {
+    "ipfs-http-client": "^48.1.2"
   }
 }
