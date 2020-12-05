@@ -1,6 +1,6 @@
 {
   "name": "vfl-storage-provider-ipfs-http",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ipfs provider for versioned-file-log using the http interface",
   "main": "index.js",
   "author": "Tim Göller",
